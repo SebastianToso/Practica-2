@@ -40,8 +40,7 @@ public class ConexionBD {
 
     public static void main(String[] args) {
         ConexionBD miConexion = new ConexionBD();
-        // Aquí puedes usar la conexión para realizar consultas o manipular la base de datos
-        // ...
+        
         miConexion.cerrarConexion();
     }
 }
