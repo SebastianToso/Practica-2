@@ -38,9 +38,4 @@ public class ConexionBD {
         }
     }
 
-    public static void main(String[] args) {
-        ConexionBD miConexion = new ConexionBD();
-        
-        miConexion.cerrarConexion();
-    }
 }
